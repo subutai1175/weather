@@ -1,0 +1,13 @@
+const when, date, time, morning, afternoon, evening, night
+const where, city, country, state
+const weather, temperature, rain, hot, cold
+
+Alexa,
+
+What is the weather in where when?
+What is the temperature in where when?
+Is it going to rain when in where?
+Is it going to be hot tomorrow?
+What is the weather like tomorrow?
+
+Intent: Get weather information.
