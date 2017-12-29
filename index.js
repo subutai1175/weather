@@ -12,6 +12,12 @@
 // limitations under the License.
 
 'use strict';
+const express = require('express');
+
+const app = express()
+
+const apiai = require('apiai');
+
 const http = require('http');
 const host = 'api.worldweatheronline.com';
 const wwoApiKey = '6f803737e1d74d29a1f50415172912';
